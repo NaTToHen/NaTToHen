@@ -1,6 +1,6 @@
    <div>
         <h2>Opa 👋</h2>
-        <p>Meu nome é Henrique, atualmente estou aprendendo tecnologias front-end <br><br> Email: henriquebonatto008tmail.com</p>
+        <p>Meu nome é Henrique, atualmente estou aprendendo tecnologias front-end <br><br> Email: henriquebonatto008@hotmail.com</p>
     </div><br>
 
    Skills👇
