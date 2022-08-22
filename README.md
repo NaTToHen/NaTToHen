@@ -8,7 +8,7 @@
         JavaScript <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         HTML <img align="center" margin="50" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         CSS <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </div><br>
+    </div>
       Bootstrap 4 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg">
      </div><br>
 Redes Sociais👇
