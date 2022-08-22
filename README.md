@@ -1,6 +1,6 @@
    <div>
         <h2>Opa 👋</h2>
-         <p>Meu nome é Henrique, atualmente estou aprendendo tecnologias front-end<br><br> Cursando Ciência da Computação (1º semestre) <br><br> Email: henriquebonatto008@hotmail.com</p>
+         <p>Meu nome é Henrique, atualmente estou aprendendo tecnologias front-end<br><br> Cursando Ciência da Computação (2º semestre) <br><br> Email: henriquebonatto008@hotmail.com</p>
     </div><br>
 
    Skills👇
@@ -9,6 +9,8 @@
         HTML <img align="center" margin="50" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         CSS <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </div><br>
+      Bootstrap 4 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg">
+     </div><br>
 Redes Sociais👇
  <div> 
         <br><a href="https://www.instagram.com/henrique_natto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
