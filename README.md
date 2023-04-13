@@ -3,14 +3,14 @@
          <p>Meu nome é Henrique, atualmente estou aprendendo tecnologias front-end<br><br> Cursando Ciência da Computação (2º semestre) <br><br> Email: henriquebonatto008@hotmail.com</p>
     </div><br>
 
-   Skills👇
+   **Skills👇**
   <div style="display: inline_block">
         JavaScript <br>
         HTML <br>
         CSS <br>
-        Bootstrap 4 <br><br><br>
+        PHP <br><br><br>
    
-Redes Sociais👇
+**Redes Sociais👇**
  <div> 
         <br><a href="https://www.instagram.com/henrique_natto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href = "henriquebonatto008@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
