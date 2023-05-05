@@ -8,6 +8,7 @@
         JavaScript <br>
         HTML <br>
         CSS <br>
+        Bootstrap <br>
         PHP <br><br><br>
    
 **Redes Sociais👇**
