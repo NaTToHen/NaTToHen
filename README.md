@@ -1,6 +1,7 @@
    <div>
         <h2>Opa 👋</h2>
-         <p>Meu nome é Henrique, atualmente estou aprendendo tecnologias front-end<br><br> Cursando Ciência da Computação <br><br> Email: henriquebonatto008@hotmail.com</p>
+         <p>Meu nome é Henrique, sou desenvolvedor front-end/DevOps<br><br> Cursando Ciência da Computação <br><br> <strong>Email:</strong> henriquebonatto008@hotmail.com</p>
+         <p><strong>Portifólio:</strong> <a href="https://henriquebonatto.com.br">henriquebonatto.com.br</a></p>
     </div><br>
 
    **Skills👇**
@@ -9,13 +10,14 @@
         HTML <br>
         CSS <br>
         Bootstrap <br>
-        PHP <br><br><br>
+        PHP <br>
+        AWS Certified Cloud Practitioner <br><br>
    
 **Redes Sociais👇**
  <div> 
         <br><a href="https://www.instagram.com/henrique_natto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href = "henriquebonatto008@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/henrique-b-918335211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://www.linkedin.com/in/henbonatto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><hr>
        
   </div><br><br>
     
