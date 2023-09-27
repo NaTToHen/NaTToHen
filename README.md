@@ -23,6 +23,6 @@
   </div><br><br>
     
   <div align="center">
-        <img height="300em" src="https://github-readme-stats.vercel.app/api?username=nattohen&theme=dracula"/>
+        <img height="230em" src="https://github-readme-stats.vercel.app/api?username=nattohen&theme=dracula"/>
         <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattohen&langs_count=7&theme=dracula"/>
     </div>
