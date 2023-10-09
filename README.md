@@ -9,7 +9,6 @@
         JavaScript <br>
         HTML <br>
         CSS <br>
-        Bootstrap <br>
         PHP / Laravel <br>
         AWS Cloud <br>
         Kotlin <br><br>
