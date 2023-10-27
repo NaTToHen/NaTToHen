@@ -1,6 +1,6 @@
    <div>
         <h2>Opa 👋</h2>
-         <p>Meu nome é Henrique, sou desenvolvedor front-end/DevOps<br><br> Cursando Ciência da Computação <br><br> <strong>Email:</strong> henriquebonatto008@hotmail.com</p>
+         <p>Meu nome é Henrique, sou desenvolvedor WEB/DevOps<br><br> Cursando Ciência da Computação <br><br> <strong>Email:</strong> henriquebonatto008@hotmail.com</p>
          <p><strong>Portifólio:</strong> <a href="https://henriquebonatto.com.br">henriquebonatto.com.br</a></p>
     </div><br>
 
