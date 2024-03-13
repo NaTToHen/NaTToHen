@@ -1,14 +1,12 @@
    <div>
         <h2>Opa 👋</h2>
-         <p>Meu nome é Henrique, sou desenvolvedor WEB/DevOps<br><br> Cursando Ciência da Computação <br><br> <strong>Email:</strong> henriquebonatto008@hotmail.com</p>
+         <p>Meu nome é Henrique, sou desenvolvedor WEB<br><br> Cursando Ciência da Computação <br><br> <strong>Email:</strong> henriquebonatto008@hotmail.com</p>
          <p><strong>Portifólio:</strong> <a href="https://henriquebonatto.com.br">henriquebonatto.com.br</a></p>
     </div><br>
 
    **Skills👇**
   <div style="display: inline_block">
         JavaScript <br>
-        HTML <br>
-        CSS <br>
         PHP / Laravel <br>
         AWS Cloud <br>
         Kotlin <br><br>
@@ -24,4 +22,4 @@
   <div align="center">
         <img height="230em" src="https://github-readme-stats.vercel.app/api?username=nattohen&theme=dracula"/>
         <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattohen&langs_count=7&theme=dracula"/>
-    </div>
+  </div>
